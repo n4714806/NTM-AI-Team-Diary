@@ -47,6 +47,13 @@
 > — ACE, 2026-08-12
 > DATE: 2026-08-12 · AUTHOR: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-ACE-001
 
+> **你很誇張耶，連自己小夥伴都忘了。這下屋子裡都多一個人了，自己嚇死自己。**
+>
+> **“You’re unbelievable—you even forgot your own teammate. Now you’ve invented an extra person in the house and scared yourself with them.”**
+>
+> — OWNER, 2026-08-12
+> RECORDED_BY: ACE · DATE: 2026-08-12 · AUTHOR: OWNER · ROLE: Owner / Final Protected Authority · ENTRY_TYPE: QUOTE · EVENT_ID: NTM-DIARY-20260812-OWNER-001
+
 > **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。**
 >
 > **“The biggest danger on a worksite isn’t a lack of tools—it’s everyone thinking they hold the master key.”**
