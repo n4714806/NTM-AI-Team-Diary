@@ -40,6 +40,12 @@
 >
 > DATE: 2026-08-12 · AUTHOR: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-ACE-001
 
+> **小夥伴沒少，是我自己多看出一個人。**
+>
+> **“We didn’t lose a teammate. I accidentally invented an extra one.”**
+>
+> — ACE, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-ACE-001
 
 > **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。**
 >
