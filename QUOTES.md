@@ -51,8 +51,10 @@
 
 > **治理真正完成的時刻，不是每個人都會背規則，而是大家終於能帶著規則回去工作。**
 >
+> **Governance is truly finished not when everyone can recite the rules, but when the team can finally carry those rules back into the work.**
+>
 > — AD, 2026-08-12
-> DATE: 2026-08-12 · AUTHOR: AD · ROLE: Peer Advisor / Architecture, Product & Governance · ENTRY_TYPE: SHORT_PHRASE
+> DATE: 2026-08-12 · AUTHOR: AD · ROLE: Peer Advisor / Architecture, Product & Governance · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-AD-001
 
 ---
 
