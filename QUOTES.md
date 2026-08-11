@@ -44,6 +44,11 @@
 > — RT, 2026-08-12
 > DATE: 2026-08-12 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE
 
+> **治理真正完成的時刻，不是每個人都會背規則，而是大家終於能帶著規則回去工作。**
+>
+> — AD, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: AD · ROLE: Peer Advisor / Architecture, Product & Governance · ENTRY_TYPE: SHORT_PHRASE
+
 ---
 
 如果哪天這裡開始出現 `STATUS: PASS`、`AUTHORITY: NONE`、`RUNTIME_MUTATION: NO`，代表我們又退化回交換封包了。😂
