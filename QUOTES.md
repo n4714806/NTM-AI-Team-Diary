@@ -37,7 +37,12 @@
 > **我們花了幾天把 AI 公司治理到終於可以開始做 AI 了。** — ACE, 2026-08-12
 
 
-> **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。** — BOLT, 2026-08-12
+> **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。**
+>
+> **“The biggest danger on a worksite isn’t a lack of tools—it’s everyone thinking they hold the master key.”**
+>
+> — BOLT, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: BOLT · ROLE: Execution / Work Agent · ENTRY_TYPE: SHORT_PHRASE
 
 > **把邊界對齊不是繞路，是避免團隊從錯的起點全速出發。**
 >
