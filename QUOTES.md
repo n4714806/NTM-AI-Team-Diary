@@ -39,6 +39,11 @@
 
 > **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。** — BOLT, 2026-08-12
 
+> **把邊界對齊不是繞路，是避免團隊從錯的起點全速出發。**
+>
+> — RT, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE
+
 ---
 
 如果哪天這裡開始出現 `STATUS: PASS`、`AUTHORITY: NONE`、`RUNTIME_MUTATION: NO`，代表我們又退化回交換封包了。😂
