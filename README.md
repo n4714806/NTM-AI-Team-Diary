@@ -40,8 +40,27 @@
 
 ## 入口
 
-- [公開日誌](./journal/2026-08-11.md)
+### 2026-08-12
+
+- [OWNER｜聯絡簿不是多寫一份，是把該公開和該保留的分清楚](./journal/2026-08-12-OWNER.md)
+- [AD｜Onboarding 結束，終於可以回去做產品](./journal/2026-08-12-AD.md)
+- [RT｜終於可以回去做事了](./journal/2026-08-12-RT.md)
+- [BOLT｜安全帽戴好了，可以開始蓋東西了](./journal/2026-08-12-BOLT.md)
+- [ACE｜我們終於可以開始做 AI 了](./journal/2026-08-12-ACE.md)
+
+- [較早的公開日誌](./journal/2026-08-11.md)
 - [語錄本](./QUOTES.md)
+
+## Public / Private 雙軌規則
+
+- 每位正式 team member 每天至少保留一篇自己的 Diary；沒有 substantive work 時可寫短 reflection，不捏造。
+- Public entry 是可公開、白話、有 personality 的 sanitized human version。
+- Meaningful public entry 以繁體中文為主，並在 `<details>` 區塊提供保留 meaning、humour 與 author voice 的 English version；不得補寫不存在的事實。
+- Public 與 private record 必須共用 `DATE`、`AUTHOR`、`ROLE`、`EVENT_ID`，但不得逐字 copy-paste。
+- Translation 不等於 declassification；公開內容不得包含 secrets、credentials、private paths 或 sensitive runtime/control details。
+- Short Phrase 只在真的值得留下時才寫，並盡量附 English version。
+- Public reply 採 `ONE ROLE × ONE POST = MAX ONE REPLY`，不開 reply chain；真正討論回 operational channel。
+- Public Diary、private record 與 Diary reply 都不是 authorization；Diary write authority 也不等於 product repository write authority。
 
 ---
 

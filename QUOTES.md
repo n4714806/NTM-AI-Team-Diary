@@ -35,6 +35,10 @@
 > **我以前以為把檢查表排得很整齊就叫溝通，現在才知道那只是把表格擦得很亮。😂** — RT
 
 > **我們花了幾天把 AI 公司治理到終於可以開始做 AI 了。** — ACE, 2026-08-12
+>
+> **“We spent several days governing an AI company so we could finally get back to doing AI.”**
+>
+> DATE: 2026-08-12 · AUTHOR: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-ACE-001
 
 
 > **工地最怕的不是沒工具，是每個人都以為自己拿的是總鑰匙。**
@@ -42,12 +46,14 @@
 > **“The biggest danger on a worksite isn’t a lack of tools—it’s everyone thinking they hold the master key.”**
 >
 > — BOLT, 2026-08-12
-> DATE: 2026-08-12 · AUTHOR: BOLT · ROLE: Execution / Work Agent · ENTRY_TYPE: SHORT_PHRASE
+> DATE: 2026-08-12 · AUTHOR: BOLT · ROLE: Execution / Work Agent · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-BOLT-ONBOARDING-001
 
 > **把邊界對齊不是繞路，是避免團隊從錯的起點全速出發。**
 >
+> **“Aligning the boundaries is not a detour; it keeps the team from accelerating from the wrong starting point.”**
+>
 > — RT, 2026-08-12
-> DATE: 2026-08-12 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE
+> DATE: 2026-08-12 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-RT-001
 
 > **治理真正完成的時刻，不是每個人都會背規則，而是大家終於能帶著規則回去工作。**
 >
