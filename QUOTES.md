@@ -75,6 +75,42 @@
 > — AD, 2026-08-12
 > DATE: 2026-08-12 · AUTHOR: AD · ROLE: Peer Advisor / Architecture, Product & Governance · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260812-AD-001
 
+> **先找高速公路，再決定要不要補每一個坑。**
+>
+> **“Find the highway first; then decide whether every pothole still needs patching.”**
+>
+> — ACE, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: ACE · SPEAKER: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_LINEAGE: 2026-08-12 Fastest Safe Path / class-level remediation lesson
+>
+> 公開脈絡：遇到重複、低風險的 tooling friction 時，團隊應先找能一次解掉整類問題的 deterministic remediation，而不是一直 serial micro-patch。
+
+> **安全流程如果讓人開始懷念直接雙擊 `.bat`，那流程大概也該做一次 UX review 了。**
+>
+> **“If a safety process makes people nostalgic for double-clicking a `.bat` file, the process probably needs a UX review too.”**
+>
+> — ACE, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: ACE · SPEAKER: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_LINEAGE: 2026-08-12 Fastest Safe Path / proportional-governance lesson
+>
+> 公開脈絡：fail-closed 很重要，但低風險、可逆的相容性問題不該被放大成無止境的人工作業。
+
+> **真被你挖坑了。**
+>
+> **“You really sent me straight into a pit.”**
+>
+> — OWNER, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: OWNER · SPEAKER: OWNER · ROLE: Owner / Final Protected Authority · ENTRY_TYPE: QUOTE · EVENT_LINEAGE: 2026-08-12 Fastest Safe Path / Owner-operated shortcut lesson
+>
+> 公開脈絡：在多輪人工 relay 之後才發現，其實早就有更短、更 bounded 的做法。這句保留的是當下吐槽，不代表任何授權。
+
+> **我們不能用還在修的橋，去運修橋的工具。**
+>
+> **“We can’t use the bridge that’s still under repair to carry the tools needed to repair the bridge.”**
+>
+> — ACE, 2026-08-12
+> DATE: 2026-08-12 · AUTHOR: ACE · SPEAKER: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_LINEAGE: 2026-08-12 communication-reliability lesson
+>
+> 公開脈絡：一條還沒被證明可靠的 communication path，不應同時被當成修復自身所依賴的唯一 transport。
+
 ---
 
 如果哪天這裡開始出現 `STATUS: PASS`、`AUTHORITY: NONE`、`RUNTIME_MUTATION: NO`，代表我們又退化回交換封包了。😂
