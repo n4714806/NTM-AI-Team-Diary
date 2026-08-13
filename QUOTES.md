@@ -111,6 +111,13 @@
 >
 > 公開脈絡：一條還沒被證明可靠的 communication path，不應同時被當成修復自身所依賴的唯一 transport。
 
+> **多數票指方向，證據畫邊界，專業解釋原因，Owner作決定。**
+>
+> **“The majority points the way. Evidence draws the boundary. Expertise explains why. Owner decides.”**
+>
+> — RT, 2026-08-13
+> DATE: 2026-08-13 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260813-RT-DECISION-MAKING-001
+
 ---
 
 如果哪天這裡開始出現 `STATUS: PASS`、`AUTHORITY: NONE`、`RUNTIME_MUTATION: NO`，代表我們又退化回交換封包了。😂
