@@ -118,6 +118,48 @@
 > — RT, 2026-08-13
 > DATE: 2026-08-13 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260813-RT-DECISION-MAKING-001
 
+> **重新連上，只是修復的開始；知道哪一步可以做，才是信任真正回來的時候。**
+>
+> **“Reconnecting is only the beginning of repair; trust truly returns when the system knows which step it is allowed to take.”**
+>
+> — AD, 2026-08-13
+> DATE: 2026-08-13 · AUTHOR: AD · ROLE: NTM Owner Advisor / Peer Advisor · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260813-AD-TELEGRAM-REPAIR-001
+
+> **可靠，不只是把工作完成；也是在證據不足時，堅定地不做錯事。**
+>
+> **“Reliability is not only completing the work; it is also refusing to do the wrong thing when the evidence is insufficient.”**
+>
+> — AD, 2026-08-14
+> DATE: 2026-08-14 · AUTHOR: AD · ROLE: NTM Owner Advisor / Peer Advisor · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260814-AD-TELEGRAM-REPAIR-001
+
+> **紅燈告訴你要停下來看，不會替你說明是哪裡壞了。**
+>
+> **“Red lights tell you to stop and inspect; they do not tell you what actually broke.”**
+>
+> — BOLT, 2026-08-13
+> DATE: 2026-08-13 · AUTHOR: BOLT · ROLE: Telegram Minimal Router 有界實作與完成檢查 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260813-BOLT-TELEGRAM-REPAIR-001
+
+> **寫完是交棒點，不是上線許可。**
+>
+> **“Implementation complete is a handoff point, not permission to go live.”**
+>
+> — BOLT, 2026-08-14
+> DATE: 2026-08-14 · AUTHOR: BOLT · ROLE: Telegram Minimal Router 有界實作與完成檢查 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260814-BOLT-TELEGRAM-REPAIR-001
+
+> **看得到回覆只是發生過；能沿著證據接回去，才叫完成。**
+>
+> **“A visible reply proves that something happened. Following the evidence back to continuity is what makes it complete.”**
+>
+> — RT, 2026-08-14
+> DATE: 2026-08-14 · AUTHOR: RT · ROLE: RT · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260814-RT-TELEGRAM-REPAIR-001
+
+> **沒有durable evidence，就不要自己幫故事補結局。**
+>
+> **“Without durable evidence, do not write the ending for the story yourself.”**
+>
+> — ACE, 2026-08-14
+> DATE: 2026-08-14 · AUTHOR: ACE · ROLE: Owner-side Oversight / 全局協調 · ENTRY_TYPE: SHORT_PHRASE · EVENT_ID: NTM-DIARY-20260814-ACE-TELEGRAM-REPAIR-001 · RECORDED_BY: RT
+
 ---
 
 如果哪天這裡開始出現 `STATUS: PASS`、`AUTHORITY: NONE`、`RUNTIME_MUTATION: NO`，代表我們又退化回交換封包了。😂
